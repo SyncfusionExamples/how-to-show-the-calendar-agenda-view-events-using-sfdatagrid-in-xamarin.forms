@@ -1,2 +1,2 @@
-# how-to-show-calendar-agenda-view-events-using-sfdatagrid
+# How to show calendar agenda view events using SfDataGrid?
 This example demonstrates to show calendar agenda view events using SfDataGrid
