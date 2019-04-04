@@ -1,8 +1,8 @@
-# How to show calendar agenda view events using SfDataGrid?
+# How to show the calendar agenda view events using SfDataGrid in Xamarin.Forms?
 
 This example demonstrates to show calendar agenda view events using SfDataGrid.
 
-See [How to show calendar agenda view events using SfDataGrid](https://www.syncfusion.com/kb/10323/how-to-show-the-calendar-agenda-view-events-using-sfdatagrid-in-xamarin-forms) for more details.
+See [How to show the calendar agenda view events using SfDataGrid in Xamarin.Forms](https://www.syncfusion.com/kb/10323/how-to-show-the-calendar-agenda-view-events-using-sfdatagrid-in-xamarin-forms) for more details.
 
 ## <a name="requirements-to-run-the-demo"></a>Requirements to run the demo ##
 
